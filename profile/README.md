@@ -3,18 +3,13 @@
 ## DeFi Primatives Metaprotocol based on Ordinal Theory
 
 
-### What is OmniSat
+### What is OmniSat?
 
-OmniSat is a community-driven organization built to design solutions for Bitcoin Native Defi Primitives.
-DeFi is relies on decentralized connected liquidity. OmniSat’s Bitcoin native approach is designed for composable solutions.
-It is intended that OmniSat privatives create network efforts that enable many varieties of decentralized finance markets built on Bitcoin.
+OmniSat is a community-driven organization built to design solutions for Bitcoin Native DeFi Primitives. DeFi relies on decentralized connected liquidity. OmniSat's Bitcoin-native approach is designed for composable solutions. It is intended that OmniSat primitives create network effects that enable various decentralized finance markets built on Bitcoin.
 
-Core Primitives and produces described throughout the documentation include: Bitcoin pegged BRC-20 compatible token, decentralized exchange 
-powered by AMM framework, yield instruments and bond instruments. OmniSat’s products and primitives are designed around protocol owned 
-liquidity concepts. Protocol owned liquidity enables reward guarantees. In times of market distress when liquidity is most needed, 
-it’s protected by bond terms, which effectively protect markets from death spirals initiated when yield chasing mercenary capital is pulled resulting in risk.
+Core Primitives and products described throughout the documentation include: Bitcoin-pegged BRC-20 compatible tokens, a decentralized exchange powered by an AMM framework, yield instruments, and bond instruments. OmniSat's products and primitives are designed around the concept of protocol-owned liquidity. Protocol-owned liquidity enables reward guarantees. In times of market distress when liquidity is most needed, it's protected by bond terms, effectively safeguarding markets from death spirals initiated when yield-chasing mercenary capital is withdrawn, thus mitigating risks.
 
-The documentation details the technical and operational aspects of the OmniSat primitives and product ecosystem. 
+The documentation provides comprehensive details about the technical and operational aspects of OmniSat primitives and the product ecosystem.
 
 ### Primatives
 
